@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    border: 2px solid black;
+    width: 750px;       
+    height: 400px;  
+
+    align-items: center;    
+}
+
+.container img{
+    width: 50%;
+    height: 100%;
+}
+
+.container p{
+    font-size: larger;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 50%;
+    height: 100%;
+}
